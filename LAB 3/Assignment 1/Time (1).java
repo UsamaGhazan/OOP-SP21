@@ -8,6 +8,9 @@ public class Time {
     }
     
     public Time(int h, int m, int s ) {   
+          h = hr;
+          m = min;
+          s = seconds;
        
     }
     
